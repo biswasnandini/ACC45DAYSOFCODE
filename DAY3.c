@@ -1,4 +1,4 @@
-//write a program to create a calculater(sum,subtract,multiply and divide).
+//3.write a program to create a calculater(sum,subtract,multiply and divide).
 #include<stdio.h>
 void main()
 {
